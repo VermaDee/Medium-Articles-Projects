@@ -1,6 +1,6 @@
-# link to medium articles 
+# Link to my Medium Profile
 
-ALL : https://medium.com/me/stories/public
+https://medium.com/@deevyarsheverma
 
 PROJECTS: 
 
